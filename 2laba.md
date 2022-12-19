@@ -6,9 +6,10 @@
 
 int main()
 
+
 {
+
     const int colum=4;
-   
     const int row=4;
     int a[N][N];
     int x,y,value=1;
