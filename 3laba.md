@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 int ABBA(int n[8]) {
+
     int N[8][8];
     for (int b = 0; b < 8; b++) {
         for (int j = 0; j < 8; j++) {
